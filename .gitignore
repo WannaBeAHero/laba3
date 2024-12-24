@@ -1,0 +1,7 @@
+*
+module-info.java
+
+!src/
+!src/**
+!.gitignore
+
